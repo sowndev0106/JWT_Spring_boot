@@ -12,5 +12,4 @@ public class SpringBootApiJwtAdApplication {
 
         SpringApplication.run(SpringBootApiJwtAdApplication.class, args);
     }
-
 }
